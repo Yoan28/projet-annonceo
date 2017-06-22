@@ -52,3 +52,26 @@ footer{
 	padding: 7px 0;
 
 }
+
+
+/*DEBUT EDOUARD*/
+
+	.conteneurSection
+	{
+		margin:0 auto;
+		width: 1170px;
+		display: flex;
+		min-height: 775px;
+	}
+
+	#formGauchePageAccueil
+	{
+		width: 25%;
+	}
+
+	#partiePrincipalePageAccueil
+	{
+		width: 75%;
+	}
+
+/*FIN EDOUARD*/

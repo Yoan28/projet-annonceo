@@ -18,3 +18,8 @@
 						<li><a href="#">Espace Membre</a></li>
 				</ul>
 			</nav>
+		</div>
+	</header>
+		
+	<section>
+		<div class="conteneurSection">
