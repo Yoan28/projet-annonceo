@@ -1,0 +1,54 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+}
+body{
+	font:16px;
+	margin: 0;
+}
+
+
+a{
+	text-decoration: none;
+}
+/********************************/
+/*		style HAUT			 */
+header{
+	background: #000000;
+	padding: 15px;
+	text-align: center;
+}
+
+header nav ul li{
+	display:inline;
+}
+ul li{
+	padding: 10px;
+}
+header a{
+	color:#ffffff;
+	text-decoration: none;
+	padding:5px 5px;
+}
+
+header nav a:hover{
+	background: #eeeeee;
+	color:black;
+
+}
+
+
+#search{
+	padding: 5px;
+	width: 400px;
+}
+
+/*********************************/
+/* 			BAS				*/
+footer{
+	background: #000;
+	color : white;
+	text-align: center;
+	padding: 7px 0;
+
+}
