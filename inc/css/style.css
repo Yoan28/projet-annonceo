@@ -54,6 +54,7 @@ footer{
 }
 
 
+<<<<<<< HEAD
 /**************************/
 /* FORMULAIRES  */
 
@@ -88,3 +89,72 @@ form > input[type="submit"]{
 	padding: 5px;
 	margin: 5px;
 }
+=======
+/*DEBUT EDOUARD*/
+
+	/* Page haut */
+	.conteneur
+	{
+		margin:0;
+		width: 1170px;
+	}
+
+	/* Page acceuil */
+	#formGauchePageAccueil
+	{
+		width: 25%;
+	}
+
+	#partiePrincipalePageAccueil
+	{
+		width: 75%;
+	}
+
+	/* Page acceuil et fiche annonce */
+	.conteneurFlex
+	{
+		display: flex;
+	}
+
+	/* Page fiche annonce */
+
+	#titrePageFicheAnnonce
+	{
+		margin-left: 300px;
+	}
+
+	iframe
+	{
+		width:100%;
+	}
+
+	.conteneurFlex > img
+	{
+		margin-right: 15px;
+	}
+
+	#infosProduitPageFicheAnnonce li
+	{
+		display: inline-block;
+		margin-right: 30px;
+	}
+	
+	#autresAnnonces
+	{
+		display: flex;
+    	justify-content: space-around;
+    	background: #F5F5F5;
+    	margin-bottom: 20px;
+	}
+
+	#liensEnBas
+	{
+		display: flex;
+    	justify-content: space-between;
+       	background: #F5F5F5;
+     	margin-bottom: 20px;
+     	padding: 10px;
+	}
+
+/*FIN EDOUARD*/
+>>>>>>> refs/remotes/origin/edouard

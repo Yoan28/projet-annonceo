@@ -1,6 +1,9 @@
 		</section>
 	</div>
+<<<<<<< HEAD
 	
+=======
+>>>>>>> refs/remotes/origin/edouard
 
 	<footer>
 		<div class="conteneur">
@@ -9,7 +12,6 @@
 		</div>
 	</footer>
 
-	
 </body>
 </html>
 
