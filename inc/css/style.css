@@ -109,12 +109,19 @@ form > input[type="submit"]{
 	#partiePrincipalePageAccueil
 	{
 		width: 75%;
+		display: flex;
+		justify-content:column;
 	}
 
 	/* Page acceuil et fiche annonce */
 	.conteneurFlex
 	{
 		display: flex;
+	}
+
+	#produitsPageAccueil
+	{
+		margin: 10px auto;
 	}
 
 	/* Page fiche annonce */
@@ -155,6 +162,16 @@ form > input[type="submit"]{
        	background: #F5F5F5;
      	margin-bottom: 20px;
      	padding: 10px;
+	}
+
+
+	/* Page Deposer annonce*/
+
+	#formDeposerAnnonce
+	{
+		width: 100%; /*100% du père cad .conteneur*/
+		margin:0;
+		border:none;
 	}
 
 /*FIN EDOUARD*/

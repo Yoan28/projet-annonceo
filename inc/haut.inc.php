@@ -16,7 +16,6 @@
 		<div class="conteneur">
 			<nav>
 				 <?php
-				
 					if(internauteEstConnecteEtEstAdmin())
 					{
 				
