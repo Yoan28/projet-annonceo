@@ -51,6 +51,9 @@
 						<li><a href="contact.php">Contact</a></li>
 						<li><input type="search" name="search" id="search" placeholder="Recherche...">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c08a76836c5ad64f12bf5713a4aa87a65854c177
 						<li><a href="#">Espace Membre</a></li>
 				</ul>
 			</nav>
@@ -59,7 +62,10 @@
 		
 	<section>
 		<div class="conteneur">
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> c08a76836c5ad64f12bf5713a4aa87a65854c177
 						<li><a href="connexion.php">Espace Membre</a></li>
 				</ul> -->
 			</nav>
@@ -69,4 +75,8 @@
 
 	<section>
 		<div class="conteneur">
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
+=======
+
+>>>>>>> c08a76836c5ad64f12bf5713a4aa87a65854c177
