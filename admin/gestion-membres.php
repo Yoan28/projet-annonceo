@@ -48,13 +48,13 @@ echo $content;
 
 				<div class="col-md-6">
 					<label for="pseudo">Pseudo : </label><br>
+					
 					<input type="text" name="titre"><br><br>
 				</div>
 
 				<div class="col-md-6">
 					<label for="email">Email : </label><br>
 					<input type="email" name="email"><br><br>
-					
 				</div>
 
 			</div>
