@@ -54,6 +54,7 @@ footer{
 }
 
 
+
 /**************************/
 /* FORMULAIRES  */
 
@@ -88,6 +89,7 @@ form > input[type="submit"]{
 	padding: 5px;
 	margin: 5px;
 }
+
 
 /*DEBUT EDOUARD*/
 
@@ -210,6 +212,7 @@ form > input[type="submit"]{
 	margin: 5px;
 }
 
+
 /*****tab affichage ***/
 table{
 	border-collapse: collapse;
@@ -228,3 +231,4 @@ td
 {
 	padding: 5px;
 } 
+
