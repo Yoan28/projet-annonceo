@@ -1,6 +1,5 @@
 		</section>
 	</div>
-	
 
 	<footer>
 		<div class="conteneur">
@@ -9,7 +8,6 @@
 		</div>
 	</footer>
 
-	
 </body>
 </html>
 
