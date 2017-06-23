@@ -54,8 +54,6 @@ footer{
 }
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 /**************************/
 /* FORMULAIRES  */
 
@@ -90,10 +88,7 @@ form > input[type="submit"]{
 	padding: 5px;
 	margin: 5px;
 }
-=======
-=======
 
->>>>>>> fd1700c953b7a5da7826c2d9e123a7e3664aa80a
 /*DEBUT EDOUARD*/
 
 	/* Page haut */
@@ -161,9 +156,7 @@ form > input[type="submit"]{
 	}
 
 /*FIN EDOUARD*/
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/edouard
-=======
+
 
 /**************************/
 /* FORMULAIRES  */
@@ -199,4 +192,22 @@ form > input[type="submit"]{
 	padding: 5px;
 	margin: 5px;
 }
->>>>>>> fd1700c953b7a5da7826c2d9e123a7e3664aa80a
+
+/*****tab affichage ***/
+table{
+	border-collapse: collapse;
+	border-radius: 4px;
+}
+table tr td{
+	text-align: center;
+}
+tbody > tr > th {
+	padding: 5px;
+	background: #222;
+	color:white;
+}
+
+td
+{
+	padding: 5px;
+} 
