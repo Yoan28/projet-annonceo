@@ -98,7 +98,7 @@ require_once('inc/haut.inc.php');
 							<p>Dernier avis du produit3</p>
 						</td>
 						<td>
-							<p>Prix</p>
+							<p>Prix</p> 
 						</td>
 					</tr>
 				</table>
