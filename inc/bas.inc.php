@@ -1,5 +1,9 @@
 		</section>
 	</div>
+<<<<<<< HEAD
+=======
+	
+>>>>>>> refs/remotes/origin/master
 
 	<footer>
 		<div class="conteneur">
@@ -10,3 +14,5 @@
 
 </body>
 </html>
+
+
