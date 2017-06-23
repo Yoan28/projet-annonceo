@@ -1,5 +1,6 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 require_once('inc/init.inc.php');
 require_once('inc/haut.inc.php');
 =======
@@ -7,6 +8,13 @@ require_once('inc/haut.inc.php');
 ?>
 
 >>>>>>> refs/remotes/origin/edouard
+=======
+	require_once('inc/haut.inc.php');
+?>
+
+require_once('inc/init.inc.php');
+require_once('inc/haut.inc.php');
+>>>>>>> fd1700c953b7a5da7826c2d9e123a7e3664aa80a
 
 	<div class="conteneurFlex">
 

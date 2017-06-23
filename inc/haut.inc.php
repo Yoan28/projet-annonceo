@@ -51,22 +51,36 @@
 						<li><a href="contact.php">Contact</a></li>
 						<li><input type="search" name="search" id="search" placeholder="Recherche...">
 <<<<<<< HEAD
+<<<<<<< HEAD
 						<li><a href="connexion.php">Espace Membre</a></li>
 				</ul> -->
-			</nav>
-		</div>
-	</header>
-
-
-	<section>
-		<div class="conteneur">
 =======
 						<li><a href="#">Espace Membre</a></li>
 				</ul>
+>>>>>>> fd1700c953b7a5da7826c2d9e123a7e3664aa80a
 			</nav>
 		</div>
 	</header>
 		
 	<section>
 		<div class="conteneur">
+<<<<<<< HEAD
+=======
+						<li><a href="#">Espace Membre</a></li>
+				</ul>
+=======
+						<li><a href="connexion.php">Espace Membre</a></li>
+				</ul> -->
+>>>>>>> fd1700c953b7a5da7826c2d9e123a7e3664aa80a
+			</nav>
+		</div>
+	</header>
+
+
+	<section>
+		<div class="conteneur">
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/edouard
+=======
+
+>>>>>>> fd1700c953b7a5da7826c2d9e123a7e3664aa80a
