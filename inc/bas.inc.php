@@ -1,6 +1,7 @@
 		</section>
 	</div>
 
+
 	<footer>
 		<div class="conteneur">
 			<a href="#">Mentiens légales</a>
