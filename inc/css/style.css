@@ -1,0 +1,90 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+}
+body{
+	font:16px;
+	margin: 0;
+}
+
+
+a{
+	text-decoration: none;
+}
+/********************************/
+/*		style HAUT			 */
+header{
+	background: #000000;
+	padding: 15px;
+	text-align: center;
+}
+
+header nav ul li{
+	display:inline;
+}
+ul li{
+	padding: 10px;
+}
+header a{
+	color:#ffffff;
+	text-decoration: none;
+	padding:5px 5px;
+}
+
+header nav a:hover{
+	background: #eeeeee;
+	color:black;
+
+}
+
+
+#search{
+	padding: 5px;
+	width: 400px;
+}
+
+/*********************************/
+/* 			BAS				*/
+footer{
+	background: #000;
+	color : white;
+	text-align: center;
+	padding: 7px 0;
+
+}
+
+
+/**************************/
+/* FORMULAIRES  */
+
+form{
+	width: 390px;
+	margin: 25px auto;
+	padding: 15px;
+	border: 1px solid #222;
+
+}
+form> input{
+	width: 100%;
+	height: 35px;
+	padding: 3px;
+}
+form > input[type="submit"]{
+	border-radius: 4px;
+	background: #222;
+	color:white;
+	border: 0;
+}
+/*************************/
+/* gestion messages success ou error via la variable $content */
+.erreur{
+	background: #ff0000;
+	padding: 10px;
+	margin: 5px;
+}
+
+.validation{
+	background: #669933;
+	padding: 5px;
+	margin: 5px;
+}
