@@ -4,6 +4,9 @@ require_once('inc/haut.inc.php');
 
 ?>
 
+
+
+
 	<div class="conteneurFlex">
 
 		<div id="formGauchePageAccueil">
