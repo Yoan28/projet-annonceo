@@ -20,11 +20,11 @@
 					if(internauteEstConnecteEtEstAdmin())
 					{
 				
-						echo '<a href="' . URL . 'admin/gestion_annonces.php">Gestion des annonces</a>';
-						echo '<a href="' . URL . 'admin/gestion_categories.php">Gestion des catégories</a>';
-						echo '<a href="' . URL . 'admin/gestion_membres.php">Gestion des membres</a>';
-						echo '<a href="' . URL . 'admin/gestion_commentaire.php">Gestion des commentaires</a>';
-						echo '<a href="' . URL . 'admin/gestion_notes.php">Gestion des notes</a>';
+						echo '<a href="' . URL . 'admin/gestion-annonces.php">Gestion des annonces</a>';
+						echo '<a href="' . URL . 'admin/gestion-categories.php">Gestion des catégories</a>';
+						echo '<a href="' . URL . 'admin/gestion-membres.php">Gestion des membres</a>';
+						echo '<a href="' . URL . 'admin/gestion-commentaire.php">Gestion des commentaires</a>';
+						echo '<a href="' . URL . 'admin/gestion-notes.php">Gestion des notes</a>';
 				
 					}
 					if(internauteEstConnecte())
@@ -50,21 +50,31 @@
 						<li><a href="#">Qui sommes nous ?</a></li>
 						<li><a href="contact.php">Contact</a></li>
 						<li><input type="search" name="search" id="search" placeholder="Recherche...">
-						<li><a href="#">Espace Membre</a></li>
-				</ul>
+<<<<<<< HEAD
+<<<<<<< HEAD
+						<li><a href="connexion.php">Espace Membre</a></li>
+				</ul> -->
+
+				<!-- 		<li><a href="#">Espace Membre</a></li>
+								</ul>
+				 -->
 			</nav>
 		</div>
 	</header>
 		
-	<section>
+	<!-- <section>
 		<div class="conteneur">
+	
+						<li><a href="#">Espace Membre</a></li>
+				</ul>
+	
 						<li><a href="connexion.php">Espace Membre</a></li>
-				</ul> -->
+				</ul>
+	
 			</nav>
 		</div>
-	</header>
+	</header> -->
 
 
 	<section>
 		<div class="conteneur">
-
